@@ -1,1 +1,1 @@
-export const SECRET_JWT_KEY = 'secret111';
+export const SECRET_JWT_KEY = 'secret112';
